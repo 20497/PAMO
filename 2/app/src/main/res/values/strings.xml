@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">bmi2</string>
+
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="bmi">BMI</string>
+    <string name="enter_age">Enter your age </string>
+    <string name="Energy_Burn">Energy Burn</string>
+    <string name="paragraph">
+
+        Recipe for cheesecake\n
+
+Select a pie pan whose inside top dimension is at least 9", and whose height is at least 1 1/4". Preheat the oven to 350°F.\n
+
+To make the crust: Stir together all of the crust ingredients, mixing until thoroughly combined.\n
+
+Press the crumbs into the bottom and up the sides of the pie pan, making a thicker layer on the bottom than on the sides.\n
+
+To make the filling: Mix together the room-temperature cream cheese and sugar until smooth. Mix in the eggs and vanilla, again mixing until smooth.\n
+To avoid beating too much air into the batter, use a mixer set at low-medium speed. To avoid lumps,\n
+make sure the cream cheese is softened, and/or at room temperature.
+
+
+
+
+
+
+
+    </string>
+</resources>
